@@ -20,9 +20,10 @@ body {
   }
   
   .birthday-card .text {
-    width: 80%;
-    height: 80%;
+    width: 99%;
+    height: 75%;
     margin: auto;
+    margin-top: -25px;
     font-family: 'Nobile', sans-serif;
   }
   
@@ -36,8 +37,9 @@ body {
   }
   
   .birthday-card .text .title {
-    font-size: 1.5em;
-    margin: 60px auto 60px auto;
+    font-size: 1.4em;
+    margin: 20px auto 60px auto;
+    margin-top: 20px;
   }
   
   .birthday-card .cover-outer {
